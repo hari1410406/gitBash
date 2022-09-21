@@ -1,0 +1,8 @@
+com\appium\PomClass\ScaleViewApps.class
+com\appium\MobileUtility\JavaUtility.class
+com\appium\MobileUtility\PropertyFileUtiluity.class
+com\appium\MobileUtility\IPathConstants.class
+com\appium\MobileUtility\MobileDriverUtility.class
+com\appium\PomClass\BigBasket.class
+com\appium\PomClass\GeneralstoreHomePage.class
+com\appium\MobileUtility\BaseClass.class
